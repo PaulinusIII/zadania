@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+}
+h1{
+    background-color: rgb(207, 101, 101);
+}
+h2{
+    background-color: rgb(206, 159, 159);
+}
+#paragraf1{
+    background-color: cadetblue;
+}
+#paragraf2{
+    background-color: rgb(182, 235, 236);
+}
+ul{
+    background-color: chartreuse;
+}
+li{
+    background-color: rgb(235, 210, 146);
+}
+#punkt1{
+    color: darkmagenta;
+}
+#punkt2{
+    color: rgb(15, 68, 5);
+}
+#punkt3{
+    color: rgb(131, 12, 48);
+}
+#punkt4{
+    color: rgb(30, 68, 194);
+}
+#punkt5{
+    color: rgb(19, 12, 19);
+}

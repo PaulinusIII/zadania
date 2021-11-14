@@ -1,0 +1,11 @@
+p{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.paragraf1, .paragraf3, .paragraf4{
+    background-color: blue;
+}
+.paragraf6, .paragraf8{
+    opacity: 0.2;
+}
