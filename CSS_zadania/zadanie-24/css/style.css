@@ -7,14 +7,18 @@ div{
     
 }
 #kwadrat1{
-    background-color: rgba(10, 10, 10, 10);
+    background-color: rgba(0,0,0,0.1);
+    margin-bottom: 5px;
 }
 #kwadrat2{
-    background-color: rgba(22, 24, 23, 7);
+    background-color: rgba(0,0,0,0.5);
+    margin-bottom: 5px;
 }
 #kwadrat3{
-    background-color: rgba(38, 41, 38, 5);
+    background-color: rgba(0,0,0,0.7);
+    margin-bottom: 5px;
 }
 #kwadrat4{
-    background-color: rgba(139, 139, 139,1);
+    background-color: rgba(0,0,0,1);
+    margin-bottom: 5px;
 }
